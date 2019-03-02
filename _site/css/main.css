@@ -274,7 +274,7 @@ a { color: #2a7ae2; text-decoration: none !important; }
   }
 
   .page-content p {
-    font-size: 18px;
+    font-size: 18px !important;
   }
 
   .page-content-logo {
