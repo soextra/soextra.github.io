@@ -139,7 +139,7 @@ a { color: #2a7ae2; text-decoration: none !important; }
 
 .page-content h1 {
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 38px;
+  font-size: 48px;
   font-weight: 100;
   letter-spacing: -1.75px;
   line-height: 1;
@@ -150,10 +150,6 @@ a { color: #2a7ae2; text-decoration: none !important; }
 .page-content h3 {
   font-family: Helvetica, Arial, sans-serif;
   font-weight: 100;
-}
-
-.page-content p {
-  font-size: 15px;
 }
 
 .page-content-logo {
@@ -271,10 +267,6 @@ a { color: #2a7ae2; text-decoration: none !important; }
 
   .site-header .wrap {
     padding-bottom: 0;
-  }
-
-  .page-content p {
-    font-size: 18px !important;
   }
 
   .page-content-logo {
